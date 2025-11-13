@@ -44,5 +44,9 @@ SDE | AI & Backend Developer | Open Source | Problem Solver ⚡
 ---
 
 ### ✨ Fun Fact
-> “It ain’t much, but it’s honest code.” 😄  
+> “It ain’t much, but it’s honest code.” 😄
+
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayJKulkarni&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayJKulkarni&layout=compact&theme=tokyonight)
+
 
