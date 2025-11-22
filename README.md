@@ -49,4 +49,6 @@ SDE | AI & Backend Developer | Open Source | Problem Solver ⚡
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayJKulkarni&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayJKulkarni&layout=compact&theme=tokyonight)
 
+Pratice makes a man perfect.
+
 
