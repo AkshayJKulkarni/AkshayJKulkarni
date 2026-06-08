@@ -58,11 +58,12 @@ Real-time bidding engine using **FastAPI + AsyncIO**, optimized for scalable eve
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Current Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkshayJKulkarni&show_icons=true&theme=tokyonight&cache_seconds=3600)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayJKulkarni&layout=compact&theme=tokyonight&cache_seconds=3600)
+- Machine Learning Engineering
+- Speech AI
+- LLM Applications
+- Data Science
 
 ---
 
