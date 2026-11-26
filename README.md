@@ -6,7 +6,7 @@ I am an Information Science and Engineering graduate interested in building reli
 
 I enjoy working across the data lifecycle — from data collection and preprocessing to validation, analysis and delivering useful outputs.
 
-Bengaluru, India
+📍Bengaluru, India
 
 ---
 
